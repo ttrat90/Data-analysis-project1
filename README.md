@@ -1,4 +1,4 @@
-# Data analysis projet
+# Data analysis project
 
 This project analyses data from individual and household surveys of Lithuania from 2010 to 2019.
 It answers these questions: 
